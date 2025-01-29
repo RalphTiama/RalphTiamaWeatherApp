@@ -1,6 +1,6 @@
 ### Summary
 
-- After cloning the RalphTiamaWeather app kildny register in https://openweathermap.org/current, for your API Key.
+- After cloning the RalphTiamaWeather app kinddly register in https://openweathermap.org/current, for your API Key.
 
 ### UI Changes
 | **Inspired from**                                                    | **Output**                                                       |
@@ -21,14 +21,14 @@ What Step i did?
 
 ### Total work Time : 15hrs
 
-### NOTE: I have limited time to do the app due to personal errands
+### NOTE: I have limited time to do the app due to personal errands, but all features are done, my own design for Weather list need some UI optimization
 
 ### Checklist Requirements
 ---
 
-- [ ] Has Registration and Sign In
-- [ ] Current location ( City and Country ) (I put default Manila)
-- [ ] Current temperature in Celsius
-- [ ] Time of Sunrise and Sunset
-- [ ] An icon indicating the current weather, if it is sunny then you will use a sun icon, if it is raining then a rain icon. NOTE instead of a sun icon you must display a moon icon if it is past 6 PM.
-- [ ] Your application must have 2 TABS. The first tab should contain the current weather. The second must contain the list of weather fetched every time the user opens the application.
+- [Done] Has Registration and Sign In
+- [Done] Current location ( City and Country ) (I put default Manila)
+- [Done] Current temperature in Celsius
+- [Done] Time of Sunrise and Sunset
+- [Done] An icon indicating the current weather, if it is sunny then you will use a sun icon, if it is raining then a rain icon. NOTE instead of a sun icon you must display a moon icon if it is past 6 PM.
+- [Done] Your application must have 2 TABS. The first tab should contain the current weather. The second must contain the list of weather fetched every time the user opens the application.
