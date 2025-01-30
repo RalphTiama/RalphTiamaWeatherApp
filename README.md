@@ -1,7 +1,7 @@
 ### Important!!! Note
 
 - After cloning the RalphTiamaWeather app kinddly register in https://openweathermap.org/current, for your API Key.
-- Firebase Email and Password will work if you added your own google-services.json, and enabled the password/email feature
+
 
 ### UI Changes
 | **Inspired from**                                                    | **Output**                                                       |
