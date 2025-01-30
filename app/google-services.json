@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663159841510",
+    "project_id": "ralphtiamaweatherapp",
+    "storage_bucket": "ralphtiamaweatherapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663159841510:android:76da37e063f54ab20b1127",
+        "android_client_info": {
+          "package_name": "com.example.ralphtiamaweatherapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEUMmtLOgL2lwmyY-6ujxVbswrKTwGINI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
